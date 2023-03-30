@@ -1,3 +1,5 @@
+# aws link:-  http://flipcartscrapper-env.eba-i2pszimc.us-east-1.elasticbeanstalk.com/  
+
 from flask import Flask, render_template, request,jsonify
 from flask_cors import CORS,cross_origin
 import requests
